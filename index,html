@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<head>
+  
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+ <style>
+    *
+{
+    margin: 0;
+    padding: 0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.navbar
+{
+   background-color: rgb(34, 161, 178);
+}
+body
+{
+   
+}
+
+
+.navbar-header a 
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+   
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    font-size: 25px;
+    
+}
+
+ .navbar-right li a{
+    text-decoration: none;
+    color:white;
+    padding-right: 15px;
+ 
+}
+
+.center {color: white;}
+h2{color: white;text-align: center}
+p{
+    color: black;
+   text-align: center;
+   
+   
+  
+   
+}
+
+.row
+{
+    background-color:  rgb(34, 161, 178); 
+    padding: 10px;
+    color: white;
+}
+
+
+ </style>
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      
+        
+      
+      <a class="Title" href="#" >Food, LLC</a>
+    </div>
+    <div class="Icons">
+
+      <ul class="navbar-right" >
+        <li >
+        <a href="#" >
+        <span class="glyphicon glyphicon-cutlery"></span> chicken</a>
+        </li>
+        <li>
+        <a href="#" >
+        <span class="glyphicon glyphicon-info-sign"></span> beef</a>
+        </li>
+        <li>
+        <a href="#">
+        <span class="glyphicon glyphicon-certificate"></span> sushi</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<br>
+<br>
+<h1><p>Our Menu</p></h1>
+
+
+<div class="container">
+  <div class="row">
+     
+
+            
+    <h2>Chicken</h2>
+          <p class="center">
+            
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Imperdiet nulla malesuada pellentesque elit eget. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. 
+            Turpis massa tincidunt dui ut ornare lectus. Pharetra pharetra massa massa ultricies. Non odio euismod lacinia at quis risus sed vulputate. Enim tortor at auctor urna nunc id cursus metus.
+             Suspendisse interdum consectetur libero id faucibus. Hac habitasse platea dictumst quisque. Non nisi est sit amet facilisis magna. Posuere lorem ipsum dolor sit amet consectetur.
+              Euismod elementum nisi quis eleifend. Nisl purus in mollis nunc sed id semper risus in. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse. 
+              Vitae auctor eu augue ut lectus arcu bibendum at. Condimentum mattis pellentesque id nibh tortor id aliquet lectus. Vitae purus faucibus ornare suspendisse sed nisi lacus sed.
+               Cursus risus at ultrices mi tempus imperdiet. Cras semper auctor neque vitae tempus. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Arcu cursus vitae congue mauris.
+                Sed blandit libero volutpat sed cras. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum est. Commodo odio aenean sed adipiscing diam donec adipiscing.
+                 Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Non nisi est sit amet facilisis magna etiam tempor orci.
+                  Pellentesque dignissim enim sit amet venenatis urna cursus. Malesuada proin libero nunc consequat interdum varius sit amet. Adipiscing at in tellus integer feugiat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                  Imperdiet nulla malesuada pellentesque elit eget. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. 
+                  
+            </p>
+     
+    </div>
+</div>
+
+</body>
+</html>
